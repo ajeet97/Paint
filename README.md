@@ -11,4 +11,4 @@ Work to be done :
 - Increase/Decrease size of eraser.
 - Make brush continuous.
 
-> _**NOTE** : Use TurboC++ to run this application._
+> _**NOTE** : Use [TurboC++](https://turboc.codeplex.com/) to run this application._
